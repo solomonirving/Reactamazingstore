@@ -2,4 +2,4 @@ Amazon Clone Application
 
 -Built using React.js 
 
-Stack: HTML CSS React.js Node.js
+Stack: CSS React.js Node.js
